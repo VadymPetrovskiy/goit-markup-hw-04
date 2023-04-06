@@ -530,7 +530,8 @@ body {
 .fifth-section {
     background: #FFFFFF;
 
-    padding-top: ;
+    padding-top: 120px;
+    padding-bottom: 120px;
 
 }
 
@@ -543,8 +544,6 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
-
-    margin-top: 120px;
 }
 
 
@@ -557,7 +556,6 @@ body {
     list-style-type: none;
 
     margin-top: 72px;
-    margin-bottom: 120px;
 }
 
 .customer-items {
