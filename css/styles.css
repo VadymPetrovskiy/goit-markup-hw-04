@@ -528,7 +528,9 @@ body {
 
 /* fifth section */
 .fifth-section {
-    background: #FFFFFF
+    background: #FFFFFF;
+
+    padding-top: ;
 
 }
 
@@ -675,7 +677,8 @@ body {
     fill: #F4F4FD;
 }
 
-.footer-icons:hover {
+.footer-icons:hover,
+.footer-icons:focus {
     background-color: #31D0AA;
 }
 .footer-media {
